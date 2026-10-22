@@ -1,0 +1,32 @@
+label {
+    color: orange;
+}
+h1 {
+    color: red;
+}
+
+body {
+    color: blue;
+}
+#mdp {
+    color: green;
+}
+.rose {
+    color: rgba(6, 100, 97, 0.544);
+}
+
+.abc {
+    background-color: beige;
+}
+
+input[required] {
+    font-size: 25px;
+}
+
+form {
+    border-style :double;
+    border-color : green;
+    border : double red 5px;
+    margin-bottom: 1em;
+    padding: 1em;
+}
